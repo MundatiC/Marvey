@@ -12,14 +12,14 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import cn.pedant.SweetAlert.SweetAlertDialog
-import com.freddygenicho.mpesa.stkpush.Mode
-import com.freddygenicho.mpesa.stkpush.api.response.STKPushResponse
-import com.freddygenicho.mpesa.stkpush.interfaces.STKListener
-import com.freddygenicho.mpesa.stkpush.interfaces.TokenListener
-import com.freddygenicho.mpesa.stkpush.model.Mpesa
-import com.freddygenicho.mpesa.stkpush.model.STKPush
-import com.freddygenicho.mpesa.stkpush.model.Token
-import com.freddygenicho.mpesa.stkpush.model.Transaction
+import com.example.mpesa.stkpush.Mode
+import com.example.mpesa.stkpush.api.response.STKPushResponse
+import com.example.mpesa.stkpush.interfaces.STKListener
+import com.example.mpesa.stkpush.interfaces.TokenListener
+import com.example.mpesa.stkpush.model.Mpesa
+import com.example.mpesa.stkpush.model.STKPush
+import com.example.mpesa.stkpush.model.Token
+import com.example.mpesa.stkpush.model.Transaction
 import java.io.UnsupportedEncodingException
 
 class Pay : AppCompatActivity(), TokenListener {
