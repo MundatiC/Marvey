@@ -1,22 +1,24 @@
-# Shoe E-Commerce App
+# Marvey 
 
-Simple Shoe ordering App created with FireBase as backend
+Marey is a simple app for ordering off-shelf pharmacy and medicinal products
 
 ## Description
 
-This app has currently Five main Features
+This app has currently 6 main Features
 
 * FireBase Email Authentication
 * Displaying Products into main page fron FireBase Realtime DataBase
 * Like Functionality
 * Product Detail Page - where you choose size of the shoes and Add Product to the created
 * Displaying Cart Item Products From FireStore
+* Mpesa online payment
 
 ## Tech Stack Used
 
 * Firebase Email Authentication
 * Firebase Realtime DataBase
 * Firebase Firestore
+* Daraja Api
 
 ## Screenshots
 
