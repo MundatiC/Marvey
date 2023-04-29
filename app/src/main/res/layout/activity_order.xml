@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/priceTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textColor="#483"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:text="Price: $100" />
+
+    <EditText
+        android:id="@+id/addressEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/priceTextView"
+        android:layout_marginTop="16dp"
+        android:hint="Delivery Address"
+        android:textSize="16sp"
+        android:textColor="#333333"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/submitBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addressEditText"
+        android:layout_marginTop="32dp"
+        android:background="#4CAF50"
+        android:textColor="#FFFFFF"
+        android:text="Submit Order"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
