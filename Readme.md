@@ -11,7 +11,7 @@ This app has currently 6 main Features
 * Like Functionality
 * Product Detail Page - where you choose size of the shoes and Add Product to the created
 * Displaying Cart Item Products From FireStore
-* Mpesa online payment
+* Mpesa online payment(daraja api)
 
 ## Tech Stack Used
 
