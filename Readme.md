@@ -26,6 +26,11 @@ This app currently has 6 main Features
 <a href="https://postimg.cc/cv96jKnd" target="_blank"><img src="https://i.postimg.cc/q70nNyB6/photo-2023-04-29-15-17-32.jpg" alt="details-Page"/></a><br/><br/>
 <a href="https://postimg.cc/hJXhqSLT" target="_blank"><img src="https://i.postimg.cc/wBVNLM3f/photo-2023-04-29-15-17-45.jpg" alt="homepage"/></a><br/><br/>
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
 ## 🔗 Links
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CalebMundati
