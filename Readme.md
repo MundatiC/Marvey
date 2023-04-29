@@ -4,12 +4,12 @@ Marey is a simple app for ordering off-shelf pharmacy and medicinal products
 
 ## Description
 
-This app has currently 6 main Features
+This app currently has 6 main Features
 
 * FireBase Email Authentication
 * Displaying Products into main page fron FireBase Realtime DataBase
 * Like Functionality
-* Product Detail Page - where you choose size of the shoes and Add Product to the created
+* Product Detail Page - where you  Add Product to the cart
 * Displaying Cart Item Products From FireStore
 * Mpesa online payment
 
