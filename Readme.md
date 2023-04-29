@@ -20,7 +20,7 @@ This app has currently Five main Features
 
 ## Screenshots
 
-<a href="https://postimg.cc/pmXpqQy0" target="_blank"><img src="https://i.postimg.cc/pmXpqQy0" alt="ss-cart-Page"/></a><br/><br/>
+<a href="https://postimg.cc/pmXpqQy0" target="_blank"><img src="https://i.postimg.cc/wjDLx0zd/photo-2023-04-29-15-17-25.jpg" alt="ss-cart-Page"/></a><br/><br/>
 <a href="https://postimg.cc/6Tnw5p3n" target="_blank"><img src="https://i.postimg.cc/VsHNgSPG/ss-details-Page.png" alt="ss-details-Page"/></a><br/><br/>
 <a href="https://postimg.cc/XBf02QhQ" target="_blank"><img src="https://i.postimg.cc/KjVv8W5S/ss-homepage.png" alt="ss-homepage"/></a><br/><br/>
 
